@@ -1,0 +1,12 @@
+@media (max-width: 768px) {
+    .nav-links {
+        flex-direction: column;
+    }
+    .hero {
+        flex-direction: column;
+        text-align: center;
+    }
+    .features-container {
+        flex-direction: column;
+    }
+}
